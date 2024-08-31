@@ -29,6 +29,13 @@ file name -  1. speding code (first page)
 
 
 ***I have also attached a few images to help clarify the details.
+![add expense (first page )](https://github.com/user-attachments/assets/124a7ec3-d7d7-4e1f-975c-a09bd5d32215)
+![category page](https://github.com/user-attachments/assets/2405b1d3-cd1f-4fbe-899e-ac650fd1b178)
+![view spending](https://github.com/user-attachments/assets/48c96821-c1dd-4dbe-b1d6-41f63bb3b890)
+
+
+
+
 
 
 Regard 
